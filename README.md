@@ -1,4 +1,4 @@
-# [C#] Base classes for Domain Drive Design
+# [C#] Base classes for Domain Driven Design
 
 ## Entity
 
