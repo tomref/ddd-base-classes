@@ -1,4 +1,4 @@
-# [C#] Base classes for Domain Driven Design
+# [C#] Base classes for Domain Driven Design (DDD)
 
 ## Entity
 
